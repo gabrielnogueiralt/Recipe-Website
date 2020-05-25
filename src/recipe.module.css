@@ -1,0 +1,22 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px gray;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: whitesmoke;
+    align-items: center;
+    min-width: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.ul {
+    list-style-type: circle;
+}
